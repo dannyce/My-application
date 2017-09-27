@@ -1,3 +1,1 @@
-# My-application
-# My-application
-# My-application
+This is an Android practice
